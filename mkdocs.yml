@@ -1,0 +1,7 @@
+site_name: PyArchTests
+theme:
+  name: material
+  palette:
+    primary: deep purple
+repo_url: https://github.com/Enforcer/pyarchtests
+repo_name: Enforcer/pyarchtests
